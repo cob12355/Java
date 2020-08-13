@@ -12,8 +12,6 @@ public class MyDrawingApp extends Shape{
     }
 
     public static void main(String[] args) {
-
         new MyDrawingApp("Ovel");
-
     }
 }
